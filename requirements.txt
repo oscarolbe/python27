@@ -1,0 +1,4 @@
+M2Crypto==0.32.0
+lxml
+Jinja2
+requests
